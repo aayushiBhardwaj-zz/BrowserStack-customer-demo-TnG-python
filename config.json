@@ -1,12 +1,12 @@
 {
     "capabilities": {
-      "browserstack.user" : "aayushib_T4hCqr",
-      "browserstack.key" : "GFwMmRcqbvz2bxzVBAzW",
+      "browserstack.user" : "USERNAME",
+      "browserstack.key" : "ACCESSKEY",
       "project": "First Custom Python Android Project",
       "build": "Custom Python Android Parallel",
       "name": "parallel_test",
       "browserstack.debug": true,
-      "app": "bs://d80b9da704ef6d9e78bd9b0c15fb6ed7b874c27f"
+      "app": "bs://APPID"
     },
     "environments": [{
       "device": "Google Pixel 4",

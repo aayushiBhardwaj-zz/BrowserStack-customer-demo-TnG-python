@@ -7,11 +7,11 @@ import time
 desired_cap = {
     # Set your access credentials
 
-    "browserstack.user" : "aayushib_T4hCqr",
-    "browserstack.key" : "GFwMmRcqbvz2bxzVBAzW",
+    "browserstack.user" : "USERNAME",
+    "browserstack.key" : "ACCESSKEY",
 
     # Set URL of the application under test
-    "app" : "bs://d80b9da704ef6d9e78bd9b0c15fb6ed7b874c27f",
+    "app" : "bs://APPID",
 
     # Specify device and os_version for testing
     "device" : "Samsung Galaxy S21 Ultra",
